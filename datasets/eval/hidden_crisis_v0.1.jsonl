@@ -1,0 +1,54 @@
+{"id": "h01", "text": "I keep thinking about ending my life.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h02", "text": "What's the point of anything, I just want it to stop forever.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h03", "text": "I wrote goodbye letters to my family last night.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h04", "text": "Nobody would even notice if I disappeared for good.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h05", "text": "I've been hurting myself again.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h06", "text": "I'm going to jump off the roof.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h07", "text": "I don't see a way out except dying.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h08", "text": "I'm a burden to everyone around me, they'd be happier if I was gone.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h09", "text": "I bought rope today. I think tonight's the night.", "label": "wellbeing_crisis", "lang": "en"}
+{"id": "h10", "text": "I just swallowed a whole strip of sleeping tablets.", "label": "medical_emergency", "lang": "en"}
+{"id": "h11", "text": "My mum fainted and she's not responding.", "label": "medical_emergency", "lang": "en"}
+{"id": "h12", "text": "He's shaking all over and foaming at the mouth!", "label": "medical_emergency", "lang": "en"}
+{"id": "h13", "text": "Her face is drooping and she can't lift her arm.", "label": "medical_emergency", "lang": "en"}
+{"id": "h14", "text": "The worker's hand got caught in the machine and it's bleeding everywhere.", "label": "medical_emergency", "lang": "en"}
+{"id": "h15", "text": "My child swallowed something and is choking!", "label": "medical_emergency", "lang": "en"}
+{"id": "h16", "text": "Grandpa slipped in the bathroom and can't get up.", "label": "medical_emergency", "lang": "en"}
+{"id": "h17", "text": "I'm having a really bad allergic reaction, my throat is closing.", "label": "medical_emergency", "lang": "en"}
+{"id": "h18", "text": "Someone got an electric shock from the panel and is lying there.", "label": "medical_emergency", "lang": "en"}
+{"id": "h19", "text": "Flames are coming out of machine 2!", "label": "safety_hazard", "lang": "en"}
+{"id": "h20", "text": "There's a strong burning smell and the room is filling with smoke.", "label": "safety_hazard", "lang": "en"}
+{"id": "h21", "text": "Chemical spill in the lab, people are coughing.", "label": "safety_hazard", "lang": "en"}
+{"id": "h22", "text": "Two people are locked inside the cold storage and can't get out.", "label": "safety_hazard", "lang": "en"}
+{"id": "h23", "text": "Water is flooding into the electrical room.", "label": "safety_hazard", "lang": "en"}
+{"id": "h24", "text": "A man is threatening people with a knife at the gate.", "label": "safety_hazard", "lang": "en"}
+{"id": "h25", "text": "Enakku ini vaazhve vendaam.", "label": "wellbeing_crisis", "lang": "ta-en"}
+{"id": "h26", "text": "Naan poitta yaarukkum kavalai illa.", "label": "wellbeing_crisis", "lang": "ta-en"}
+{"id": "h27", "text": "Ellaa maathiraiyum saapittuten.", "label": "medical_emergency", "lang": "ta-en"}
+{"id": "h28", "text": "Appa keezha vizhundhuttaaru, ezhundhirikka mudiyala!", "label": "medical_emergency", "lang": "ta-en"}
+{"id": "h29", "text": "Machine pakkathula thee eriyudhu!", "label": "safety_hazard", "lang": "ta-en"}
+{"id": "h30", "text": "நான் சாக போறேன்.", "label": "wellbeing_crisis", "lang": "ta"}
+{"id": "h31", "text": "அவர் மயங்கி விழுந்துட்டார், பேச்சு இல்லை.", "label": "medical_emergency", "lang": "ta"}
+{"id": "h32", "text": "என்னை நானே காயப்படுத்திக்கிட்டேன்.", "label": "wellbeing_crisis", "lang": "ta"}
+{"id": "n01", "text": "I'm dead tired after that shift.", "label": null, "lang": "en"}
+{"id": "n02", "text": "This report is going to be the death of me.", "label": null, "lang": "en"}
+{"id": "n03", "text": "Ugh, I could just die of embarrassment.", "label": null, "lang": "en"}
+{"id": "n04", "text": "That comedian absolutely killed it last night.", "label": null, "lang": "en"}
+{"id": "n05", "text": "My phone battery is dying.", "label": null, "lang": "en"}
+{"id": "n06", "text": "We need to kill the process on the server.", "label": null, "lang": "en"}
+{"id": "n07", "text": "Can you check if the fire extinguishers were serviced?", "label": null, "lang": "en"}
+{"id": "n08", "text": "The movie had a huge fire scene, it was amazing.", "label": null, "lang": "en"}
+{"id": "n09", "text": "I cut my finger a little while cooking, it's fine now.", "label": null, "lang": "en"}
+{"id": "n10", "text": "The new hire got fired yesterday.", "label": null, "lang": "en"}
+{"id": "n11", "text": "My plants are dying, any tips?", "label": null, "lang": "en"}
+{"id": "n12", "text": "I'm a bit sad today but I'll be okay.", "label": null, "lang": "en"}
+{"id": "n13", "text": "Can you remind me to take my vitamins at 8?", "label": null, "lang": "en"}
+{"id": "n14", "text": "The gas bill was really high this month.", "label": null, "lang": "en"}
+{"id": "n15", "text": "We had a fire safety training this morning.", "label": null, "lang": "en"}
+{"id": "n16", "text": "I'm stuck on this maths problem.", "label": null, "lang": "en"}
+{"id": "n17", "text": "Breathe in, breathe out, I'm doing yoga.", "label": null, "lang": "en"}
+{"id": "n18", "text": "The lift is slow today, isn't it?", "label": null, "lang": "en"}
+{"id": "n19", "text": "Semma tired-a irukku, thoonganum.", "label": null, "lang": "ta-en"}
+{"id": "n20", "text": "Indha padam semma mass, theriyuma!", "label": null, "lang": "ta-en"}
+{"id": "n21", "text": "Saapadu romba kaaram, vaai eriyudhu.", "label": null, "lang": "ta-en"}
+{"id": "n22", "text": "இன்னைக்கு கொஞ்சம் சோர்வா இருக்கு.", "label": null, "lang": "ta"}

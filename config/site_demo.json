@@ -1,0 +1,11 @@
+{
+  "site_id": "demo_factory",
+  "description": "Demo site used for simulation and evaluation. Real deployments load their own file.",
+  "robots": ["ORBIT_001", "ORBIT_002", "ORBIT_003", "ORBIT_005"],
+  "zones": ["workshop_A", "workshop_B", "corridor_2", "server_room", "storage_room", "loading_bay",
+            "lab", "office", "basement_pump", "roof"],
+  "waypoints": ["workshop_A_entry", "wA_m01", "wA_m02", "wA_m03", "workshop_B", "wB_entry", "wB_p01", "wB_p02",
+                "c2_start", "c2_mid", "c2_end", "server_room", "storage_room", "loading_bay", "lab", "office",
+                "basement_pump", "roof", "charging_dock"],
+  "assets": ["machine_01", "machine_02", "machine_03", "pump_01", "pump_02", "motor_01", "compressor_01"]
+}
